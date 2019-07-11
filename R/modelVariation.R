@@ -1,0 +1,3 @@
+diversity <- function(x) {
+    x
+    }
